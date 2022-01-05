@@ -90,3 +90,18 @@ h2{
     border-radius: 50px;
     box-shadow: 5px 5px 40px r
 }
+/*Thir section Style Start from here */
+.third-section{
+
+
+}
+.experience-section{
+    display: flex;
+}
+.experience-item{
+    width: 80%;
+    margin: 60px;
+}
+.experience-item>p{
+    text-align: justify;
+}
